@@ -1,0 +1,226 @@
+#QPLName: HTML 4.0
+#QPLAuthor: (c) Black
+#QPLDiscription: QPasteLib библиотека HTML тегов для редакторов, с поддержкой QPasteLib 3.0 библиотек
+
+#ITEM: HTMLHeader
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 TRANSITIONAL//RU">
+<html>
+
+<head>
+<title></title>
+<meta name="generator" content="Cool Editor">
+</head>
+
+<body>
+@@@
+</body>
+
+</html>
+#ITEM: acronym
+<acronym>@@@</acronym>
+#ITEM: !--
+<!-- @@@ -->
+#ITEM: !doctype
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 TRANSITIONAL//RU">
+#ITEM: a href
+<a href="">@@@</a>
+#ITEM: address
+<address>@@@</address>
+#ITEM: applet
+<applet code="@@@" width="" height="">  </applet>
+#ITEM: area
+<area shape="@@@" href="" coords="" alt="">
+#ITEM: abbr
+<abbr>@@@</abbr>
+#ITEM: bold
+<b>@@@</b>
+#ITEM: base
+<base href="@@@">
+#ITEM: basefont
+<basefont size="@@@">
+#ITEM: bdo
+<bdo dir="">@@@</bdo>
+#ITEM: big
+<big>@@@</big>
+#ITEM: blockquote
+<blockquote>@@@</blockquote>
+#ITEM: br
+<br>
+#ITEM: button
+<button>@@@</button>
+#ITEM: caption
+<caption>@@@</caption>
+#ITEM: center
+<center>@@@</center>
+#ITEM: cite
+<cite>@@@</cite>
+#ITEM: code
+<code>@@@</code>
+#ITEM: col
+<col>
+#ITEM: colgroup
+<colgroup>@@@</colgroup>
+#ITEM: dd
+<dd>
+#ITEM: del
+<del>@@@</del>
+#ITEM: dfn
+<dfn>@@@</dfn>
+#ITEM: dir
+<dir>@@@</dir>
+#ITEM: div
+<div align="">@@@</div>
+#ITEM: dl
+<dl>
+  <dd>@@@<dt>
+</dl>
+#ITEM: dt
+<dt>
+#ITEM: em
+<em>@@@</em>
+#ITEM: font
+<font size="">@@@</font>
+#ITEM: form
+<form method=post action="">
+@@@
+</form>
+#ITEM: frame
+<frame src="@@@" name="">
+#ITEM: frameset
+<frameset rows="@@@," cols=",">
+  <frame src="" name="">
+  <frame src="" name="">
+</frameset>
+#ITEM: h1
+<h1>@@@</h1>
+#ITEM: h2
+<h2>@@@</h2>
+#ITEM: h3
+<h3>@@@</h3>
+#ITEM: h4
+<h4>@@@</h4>
+#ITEM: h5
+<h5>@@@</h5>
+#ITEM: h6
+<h6>@@@</h6>
+#ITEM: head
+<head>
+@@@
+</head>
+#ITEM: hr
+<hr>
+#ITEM: html
+<html>
+@@@
+</html>
+#ITEM: italic
+<i>@@@</i>
+#ITEM: iframe
+<iframe name="" src="" width="" height="">@@@</iframe>
+#ITEM: img
+<img src="@@@" alt="">
+#ITEM: input
+<input type="@@@" name="">
+#ITEM: ins
+<ins>@@@</ins>
+#ITEM: isindex
+<isindex>
+#ITEM: kbd
+<kbd>@@@</kbd>
+#ITEM: label
+<label>@@@</label>
+#ITEM: legend
+<legend>@@@</legend>
+#ITEM: li
+<li>
+#ITEM: link
+<link rel="@@@" href="" type="">
+#ITEM: map
+<map name="@@@">
+</map>
+#ITEM: menu
+<menu>
+  <li>@@@
+</menu>
+#ITEM: meta
+<meta name="@@@" content="">
+#ITEM: noframes
+<noframes>
+@@@
+</noframes>
+#ITEM: noscript
+<noscript>
+@@@
+</noscript>
+#ITEM: object
+<object id="" width="" height="" classid="">
+@@@
+</object>
+#ITEM: ol
+<ol>
+  <li>@@@
+  <li>
+</ol>
+#ITEM: optgroup
+<optgroup label="">
+@@@
+</optgroup>
+#ITEM: option
+<option>@@@</option>
+#ITEM: p
+<p>@@@</p>
+#ITEM: param
+<param name="@@@" value="">
+#ITEM: pre
+<pre>@@@</pre>
+#ITEM: q
+<q>@@@</q>
+#ITEM: strikeout
+<s>@@@</s>
+#ITEM: samp
+<samp>@@@</samp>
+#ITEM: select
+<select name="">@@@</select>
+#ITEM: small
+<small>@@@</small>
+#ITEM: span
+<span class="">@@@</span>
+#ITEM: strike
+<strike>@@@</strike>
+#ITEM: strong
+<strong>@@@</strong>
+#ITEM: style
+<style type="text/css">
+@@@
+</style>
+#ITEM: sub
+<sub>@@@</sub>
+#ITEM: sup
+<sup>@@@</sup>
+#ITEM: tbody
+<tbody>@@@</tbody>
+#ITEM: td
+<td>
+#ITEM: textarea
+<textarea name="" rows="" cols="">@@@</textarea>
+#ITEM: tfoot
+<tfoot>@@@</tfoot>
+#ITEM: th
+<th>
+#ITEM: thead
+<thead>@@@</thead>
+#ITEM: title
+<title>@@@</title>
+#ITEM: tr
+<tr>
+#ITEM: tt
+<tt>@@@</tt>
+#ITEM: underline
+<u>@@@</u>
+#ITEM: ul
+<ul>
+  <li>@@@
+  <li>
+</ul>
+#ITEM: var
+<var>@@@</var>

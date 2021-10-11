@@ -1,0 +1,446 @@
+#QPLName: ESC SYMBOLS
+#QPLAuthor: (c) Black
+#QPLDiscription: QPasteLib библиотека ESC символов для редакторов, с поддержкой QPasteLib 3.0 библиотек
+
+#ITEM: Alpha
+&Alpha;
+#ITEM: Beta
+&Beta;
+#ITEM: Gamma
+&Gamma;
+#ITEM: Delta
+&Delta;
+#ITEM: Epsilon
+&Epsilon;
+#ITEM: Zeta
+&Zeta;
+#ITEM: Eta
+&Eta;
+#ITEM: Theta
+&Theta;
+#ITEM: Iota
+&Iota;
+#ITEM: Kappa
+&Kappa;
+#ITEM: Lambda
+&Lambda;
+#ITEM: Mu
+&Mu;
+#ITEM: Nu
+&Nu;
+#ITEM: Xi
+&Xi;
+#ITEM: Omicron
+&Omicron;
+#ITEM: Pi
+&Pi;
+#ITEM: Rho
+&Rho;
+#ITEM: Sigma
+&Sigma;
+#ITEM: Tau
+&Tau;
+#ITEM: Upsilon
+&Upsilon;
+#ITEM: Phi
+&Phi;
+#ITEM: Chi
+&Chi;
+#ITEM: Psi
+&Psi;
+#ITEM: Omega
+&Omega;
+#ITEM: thetasym
+&thetasym;
+#ITEM: upsih
+&upsih;
+#ITEM: piv
+&piv;
+#ITEM: bull
+&bull;
+#ITEM: hellip
+&hellip;
+#ITEM: prime
+&prime;
+#ITEM: Prime
+&prime;
+#ITEM: oline
+&oline;
+#ITEM: frasl
+&frasl;
+#ITEM: weierp
+&weierp;
+#ITEM: image
+&image;
+#ITEM: real
+&real;
+#ITEM: trade
+&trade;
+#ITEM: alefsym
+&alefsym;
+#ITEM: larr
+&larr;
+#ITEM: uarr
+&uarr;
+#ITEM: rarr
+&rarr;
+#ITEM: darr
+&darr;
+#ITEM: harr
+&harr;
+#ITEM: crarr
+&crarr;
+#ITEM: lArr
+&larr;
+#ITEM: uArr
+&uarr;
+#ITEM: rArr
+&rarr;
+#ITEM: dArr
+&darr;
+#ITEM: hArr
+&harr;
+#ITEM: forall
+&forall;
+#ITEM: part
+&part;
+#ITEM: exist
+&exist;
+#ITEM: empty
+&empty;
+#ITEM: nabla
+&nabla;
+#ITEM: isin
+&isin;
+#ITEM: notin
+&notin;
+#ITEM: ni
+&ni;
+#ITEM: prod
+&prod;
+#ITEM: sum
+&sum;
+#ITEM: minus
+&minus;
+#ITEM: lowast
+&lowast;
+#ITEM: radic
+&radic;
+#ITEM: prop
+&prop;
+#ITEM: infin
+&infin;
+#ITEM: ang
+&ang;
+#ITEM: and
+&and;
+#ITEM: or
+&or;
+#ITEM: cap
+&cap;
+#ITEM: cup
+&cup;
+#ITEM: int
+&int;
+#ITEM: there4
+&there4;
+#ITEM: sim
+&sim;
+#ITEM: cong
+&cong;
+#ITEM: asymp
+&asymp;
+#ITEM: ne
+&ne;
+#ITEM: equiv
+&equiv;
+#ITEM: le
+&le;
+#ITEM: ge
+&ge;
+#ITEM: sub
+&sub;
+#ITEM: sup
+&sup;
+#ITEM: nsub
+&nsub;
+#ITEM: sube
+&sube;
+#ITEM: supe
+&supe;
+#ITEM: oplus
+&oplus;
+#ITEM: otimes
+&otimes;
+#ITEM: perp
+&perp;
+#ITEM: sdot
+&sdot;
+#ITEM: lceil
+&lceil;
+#ITEM: rceil
+&rceil;
+#ITEM: lfloor
+&lfloor;
+#ITEM: rfloor
+&rfloor;
+#ITEM: lang
+&lang;
+#ITEM: rang
+&rang;
+#ITEM: loz
+&loz;
+#ITEM: spades
+&spades;
+#ITEM: clubs
+&clubs;
+#ITEM: hearts
+&hearts;
+#ITEM: diams
+&diams;
+#ITEM: lsquo
+&lsquo;
+#ITEM: rsquo
+&rsquo;
+#ITEM: sbquo
+&sbquo;
+#ITEM: ldquo
+&ldquo;
+#ITEM: rdquo
+&rdquo;
+#ITEM: bdquo
+&bdquo;
+#ITEM: dagger
+&dagger;
+#ITEM: Dagger
+&dagger;
+#ITEM: permil
+&permil;
+#ITEM: lsaquo
+&lsaquo;
+#ITEM: rsaquo
+&rsaquo;
+#ITEM: quot
+&quot;
+#ITEM: amp
+&amp;
+#ITEM: lt
+&lt;
+#ITEM: gt
+&gt;
+#ITEM: ndash
+&ndash;
+#ITEM: mdash
+&mdash;
+#ITEM: nbsp
+&nbsp;
+#ITEM: thinsp
+&thinsp;
+#ITEM: ensp
+&ensp;
+#ITEM: emsp
+&emsp;
+#ITEM: iexcl
+&iexcl;
+#ITEM: cent
+&cent;
+#ITEM: pound
+&pound;
+#ITEM: curren
+&curren;
+#ITEM: yen
+&yen;
+#ITEM: brvbar
+&brvbar;
+#ITEM: brkbar
+&brkbar;
+#ITEM: sect
+&sect;
+#ITEM: uml
+&uml;
+#ITEM: die
+&die;
+#ITEM: copy
+&copy;
+#ITEM: ordf
+&ordf;
+#ITEM: laquo
+&laquo;
+#ITEM: not
+&not;
+#ITEM: shy
+&shy;
+#ITEM: reg
+&reg;
+#ITEM: macr
+&macr;
+#ITEM: hibar
+&hibar;
+#ITEM: deg
+&deg;
+#ITEM: plusmn
+&plusmn;
+#ITEM: sup2
+&sup2;
+#ITEM: sup3
+&sup3;
+#ITEM: acute
+&acute;
+#ITEM: micro
+&micro;
+#ITEM: middot
+&middot;
+#ITEM: cedil
+&cedil;
+#ITEM: sup1
+&sup1;
+#ITEM: ordm
+&ordm;
+#ITEM: raquo
+&raquo;
+#ITEM: frac14
+&frac14;
+#ITEM: frac12
+&frac12;
+#ITEM: frac34
+&frac34;
+#ITEM: iquest
+&iquest;
+#ITEM: Agrave
+&Agrave;
+#ITEM: Aacute
+&Aacute;
+#ITEM: Acirc
+&Acirc;
+#ITEM: Atilde
+&Atilde;
+#ITEM: Auml
+&Auml;
+#ITEM: Aring
+&Aring;
+#ITEM: AElig
+&AElig;
+#ITEM: Ccedil
+&Ccedil;
+#ITEM: Egrave
+&Egrave;
+#ITEM: Eacute
+&Eacute;
+#ITEM: Ecirc
+&Ecirc;
+#ITEM: Euml
+&Euml;
+#ITEM: Igrave
+&Igrave;
+#ITEM: Iacute
+&Iacute;
+#ITEM: Icirc
+&Icirc;
+#ITEM: Iuml
+&Iuml;
+#ITEM: ETH
+&ETH;
+#ITEM: Ntilde
+&Ntilde;
+#ITEM: Ograve
+&Ograve;
+#ITEM: Oacute
+&Oacute;
+#ITEM: Ocirc
+&Ocirc;
+#ITEM: Otilde
+&Otilde;
+#ITEM: Ouml
+&Ouml;
+#ITEM: times
+&times;
+#ITEM: Oslash
+&Oslash;
+#ITEM: Ugrave
+&Ugrave;
+#ITEM: Uacute
+&Uacute;
+#ITEM: Ucirc
+&Ucirc;
+#ITEM: Uuml
+&Uuml;
+#ITEM: Yacute
+&Yacute;
+#ITEM: THORN
+&THORN;
+#ITEM: szlig
+&szlig;
+#ITEM: agrave
+&Agrave;
+#ITEM: aacute
+&Aacute;
+#ITEM: acirc
+&Acirc;
+#ITEM: atilde
+&Atilde;
+#ITEM: auml
+&Auml;
+#ITEM: aring
+&Aring;
+#ITEM: aelig
+&AElig;
+#ITEM: ccedil
+&Ccedil;
+#ITEM: egrave
+&Egrave;
+#ITEM: eacute
+&Eacute;
+#ITEM: ecirc
+&Ecirc;
+#ITEM: euml
+&Euml;
+#ITEM: igrave
+&Igrave;
+#ITEM: iacute
+&Iacute;
+#ITEM: icirc
+&Icirc;
+#ITEM: iuml
+&Iuml;
+#ITEM: eth
+&ETH;
+#ITEM: ntilde
+&Ntilde;
+#ITEM: ograve
+&Ograve;
+#ITEM: oacute
+&Oacute;
+#ITEM: ocirc
+&Ocirc;
+#ITEM: otilde
+&Otilde;
+#ITEM: ouml
+&Ouml;
+#ITEM: divide
+&divide;
+#ITEM: oslash
+&Oslash;
+#ITEM: ugrave
+&Ugrave;
+#ITEM: uacute
+&Uacute;
+#ITEM: ucirc
+&Ucirc;
+#ITEM: uuml
+&Uuml;
+#ITEM: yacute
+&Yacute;
+#ITEM: thorn
+&THORN;
+#ITEM: yuml
+&yuml;
+#ITEM: euro
+&euro;
+#ITEM: oelig
+&oelig;
+#ITEM: scaron
+&scaron;
+#ITEM: fnof
+&fnof;
+#ITEM: circ
+&circ;

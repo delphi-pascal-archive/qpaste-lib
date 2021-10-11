@@ -1,0 +1,386 @@
+#QPLName: ANSI
+#QPLAuthor: (c) Black
+#QPLDiscription: QPasteLib библиотека ANSI символов для редакторов, с поддержкой QPasteLib 3.0 библиотек
+
+#ITEM: 33   (#21)   !
+!
+#ITEM: 34   (#22)   "
+"
+#ITEM: 35   (#23)   #
+#
+#ITEM: 36   (#24)   $
+$
+#ITEM: 37   (#25)   %
+%
+#ITEM: 38   (#26)   &
+&
+#ITEM: 39   (#27)   '
+'
+#ITEM: 40   (#28)   (
+(
+#ITEM: 41   (#29)   )
+)
+#ITEM: 42   (#2A)   *
+*
+#ITEM: 43   (#2B)   +
++
+#ITEM: 44   (#2C)   ,
+,
+#ITEM: 45   (#2D)   -
+-
+#ITEM: 46   (#2E)   .
+.
+#ITEM: 47   (#2F)   /
+/
+#ITEM: 48   (#30)   0
+0
+#ITEM: 49   (#31)   1
+1
+#ITEM: 50   (#32)   2
+2
+#ITEM: 51   (#33)   3
+3
+#ITEM: 52   (#34)   4
+4
+#ITEM: 53   (#35)   5
+5
+#ITEM: 54   (#36)   6
+6
+#ITEM: 55   (#37)   7
+7
+#ITEM: 56   (#38)   8
+8
+#ITEM: 57   (#39)   9
+9
+#ITEM: 58   (#3A)   :
+:
+#ITEM: 59   (#3B)   ;
+;
+#ITEM: 60   (#3C)   <
+<
+#ITEM: 61   (#3D)   =
+=
+#ITEM: 62   (#3E)   >
+>
+#ITEM: 63   (#3F)   ?
+?
+#ITEM: 64   (#40)   @
+@
+#ITEM: 65   (#41)   A
+A
+#ITEM: 66   (#42)   B
+B
+#ITEM: 67   (#43)   C
+C
+#ITEM: 68   (#44)   D
+D
+#ITEM: 69   (#45)   E
+E
+#ITEM: 70   (#46)   F
+F
+#ITEM: 71   (#47)   G
+G
+#ITEM: 72   (#48)   H
+H
+#ITEM: 73   (#49)   I
+I
+#ITEM: 74   (#4A)   J
+J
+#ITEM: 75   (#4B)   K
+K
+#ITEM: 76   (#4C)   L
+L
+#ITEM: 77   (#4D)   M
+M
+#ITEM: 78   (#4E)   N
+N
+#ITEM: 79   (#4F)   O
+O
+#ITEM: 80   (#50)   P
+P
+#ITEM: 81   (#51)   Q
+Q
+#ITEM: 82   (#52)   R
+R
+#ITEM: 83   (#53)   S
+S
+#ITEM: 84   (#54)   T
+T
+#ITEM: 85   (#55)   U
+U
+#ITEM: 86   (#56)   V
+V
+#ITEM: 87   (#57)   W
+W
+#ITEM: 88   (#58)   X
+X
+#ITEM: 89   (#59)   Y
+Y
+#ITEM: 90   (#5A)   Z
+Z
+#ITEM: 91   (#5B)   [
+[
+#ITEM: 92   (#5C)   \
+\
+#ITEM: 93   (#5D)   ]
+]
+#ITEM: 94   (#5E)   ^
+^
+#ITEM: 95   (#5F)   _
+_
+#ITEM: 96   (#60)   `
+`
+#ITEM: 97   (#61)   a
+a
+#ITEM: 98   (#62)   b
+b
+#ITEM: 99   (#63)   c
+c
+#ITEM: 100   (#64)   d
+d
+#ITEM: 101   (#65)   e
+e
+#ITEM: 102   (#66)   f
+f
+#ITEM: 103   (#67)   g
+g
+#ITEM: 104   (#68)   h
+h
+#ITEM: 105   (#69)   i
+i
+#ITEM: 106   (#6A)   j
+j
+#ITEM: 107   (#6B)   k
+k
+#ITEM: 108   (#6C)   l
+l
+#ITEM: 109   (#6D)   m
+m
+#ITEM: 110   (#6E)   n
+n
+#ITEM: 111   (#6F)   o
+o
+#ITEM: 112   (#70)   p
+p
+#ITEM: 113   (#71)   q
+q
+#ITEM: 114   (#72)   r
+r
+#ITEM: 115   (#73)   s
+s
+#ITEM: 116   (#74)   t
+t
+#ITEM: 117   (#75)   u
+u
+#ITEM: 118   (#76)   v
+v
+#ITEM: 119   (#77)   w
+w
+#ITEM: 120   (#78)   x
+x
+#ITEM: 121   (#79)   y
+y
+#ITEM: 122   (#7A)   z
+z
+#ITEM: 123   (#7B)   {
+{
+#ITEM: 124   (#7C)   |
+|
+#ITEM: 125   (#7D)   }
+}
+#ITEM: 126   (#7E)   ~
+~
+#ITEM: 145   (#91)   ‘
+‘
+#ITEM: 146   (#92)   ’
+’
+#ITEM: 161   (#A1)   Ў
+Ў
+#ITEM: 162   (#A2)   ў
+ў
+#ITEM: 163   (#A3)   Ј
+Ј
+#ITEM: 164   (#A4)   ¤
+¤
+#ITEM: 165   (#A5)   Ґ
+Ґ
+#ITEM: 166   (#A6)   ¦
+¦
+#ITEM: 167   (#A7)   §
+§
+#ITEM: 168   (#A8)   Ё
+Ё
+#ITEM: 169   (#A9)   ©
+©
+#ITEM: 170   (#AA)   Є
+Є
+#ITEM: 171   (#AB)   «
+«
+#ITEM: 172   (#AC)   ¬
+¬
+#ITEM: 173   (#AD)   ­
+­
+#ITEM: 174   (#AE)   ®
+®
+#ITEM: 175   (#AF)   Ї
+Ї
+#ITEM: 176   (#B0)   °
+°
+#ITEM: 177   (#B1)   ±
+±
+#ITEM: 178   (#B2)   І
+І
+#ITEM: 179   (#B3)   і
+і
+#ITEM: 180   (#B4)   ґ
+ґ
+#ITEM: 181   (#B5)   µ
+µ
+#ITEM: 182   (#B6)   ¶
+¶
+#ITEM: 183   (#B7)   ·
+·
+#ITEM: 184   (#B8)   ё
+ё
+#ITEM: 185   (#B9)   №
+№
+#ITEM: 186   (#BA)   є
+є
+#ITEM: 187   (#BB)   »
+»
+#ITEM: 188   (#BC)   ј
+ј
+#ITEM: 189   (#BD)   Ѕ
+Ѕ
+#ITEM: 190   (#BE)   ѕ
+ѕ
+#ITEM: 191   (#BF)   ї
+ї
+#ITEM: 192   (#C0)   А
+А
+#ITEM: 193   (#C1)   Б
+Б
+#ITEM: 194   (#C2)   В
+В
+#ITEM: 195   (#C3)   Г
+Г
+#ITEM: 196   (#C4)   Д
+Д
+#ITEM: 197   (#C5)   E
+E
+#ITEM: 198   (#C6)   Ж
+Ж
+#ITEM: 199   (#C7)   З
+З
+#ITEM: 200   (#C8)   И
+И
+#ITEM: 201   (#C9)   Й
+Й
+#ITEM: 202   (#CA)   К
+К
+#ITEM: 203   (#CB)   Л
+Л
+#ITEM: 204   (#CC)   М
+М
+#ITEM: 205   (#CD)   Н
+Н
+#ITEM: 206   (#CE)   О
+О
+#ITEM: 207   (#CF)   П
+П
+#ITEM: 208   (#D0)   Р
+Р
+#ITEM: 209   (#D1)   С
+С
+#ITEM: 210   (#D2)   Т
+Т
+#ITEM: 211   (#D3)   У
+У
+#ITEM: 212   (#D4)   Ф
+Ф
+#ITEM: 213   (#D5)   Х
+Х
+#ITEM: 214   (#D6)   Ц
+Ц
+#ITEM: 215   (#D7)   Ч
+Ч
+#ITEM: 216   (#D8)   Ш
+Ш
+#ITEM: 217   (#D9)   Щ
+Щ
+#ITEM: 218   (#DA)   Ъ
+Ъ
+#ITEM: 219   (#DB)   Ы
+Ы
+#ITEM: 220   (#DC)   Ь
+Ь
+#ITEM: 221   (#DD)   Э
+Э
+#ITEM: 222   (#DE)   Ю
+Ю
+#ITEM: 223   (#DF)   Я
+Я
+#ITEM: 224   (#E0)   а
+а
+#ITEM: 225   (#E1)   б
+б
+#ITEM: 226   (#E2)   в
+в
+#ITEM: 227   (#E3)   г
+г
+#ITEM: 228   (#E4)   д
+д
+#ITEM: 229   (#E5)   е
+е
+#ITEM: 230   (#E6)   ж
+ж
+#ITEM: 231   (#E7)   з
+з
+#ITEM: 232   (#E8)   и
+и
+#ITEM: 233   (#E9)   й
+й
+#ITEM: 234   (#EA)   к
+к
+#ITEM: 235   (#EB)   л
+л
+#ITEM: 236   (#EC)   м
+м
+#ITEM: 237   (#ED)   н
+н
+#ITEM: 238   (#EE)   о
+о
+#ITEM: 239   (#EF)   п
+п
+#ITEM: 240   (#F0)   р
+р
+#ITEM: 241   (#F1)   с
+с
+#ITEM: 242   (#F2)   т
+т
+#ITEM: 243   (#F3)   у
+у
+#ITEM: 244   (#F4)   ф
+ф
+#ITEM: 245   (#F5)   х
+х
+#ITEM: 246   (#F6)   ц
+ц
+#ITEM: 247   (#F7)   ч
+ч
+#ITEM: 248   (#F8)   ш
+ш
+#ITEM: 249   (#F9)   щ
+щ
+#ITEM: 250   (#FA)   ъ
+ъ
+#ITEM: 251   (#FB)   ы
+ы
+#ITEM: 252   (#FC)   ь
+ь
+#ITEM: 253   (#FD)   э
+э
+#ITEM: 254   (#FE)   ю
+ю
+#ITEM: 255   (#FF)   я
+я

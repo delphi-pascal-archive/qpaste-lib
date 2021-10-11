@@ -1,0 +1,248 @@
+#QPLName: CSS 2
+#QPLAuthor: (c) Black
+#QPLDiscription: QPasteLib библиотека CSS тегов для редакторов, с поддержкой QPasteLib 3.0 библиотек
+
+#ITEM: azimuth:
+azimuth:
+#ITEM: background:
+background:
+#ITEM: background-attachment:
+background-attachment:
+#ITEM: background-color:
+background-color:
+#ITEM: background-image:
+background-image:
+#ITEM: background-position:
+background-position:
+#ITEM: background-repeat:
+background-repeat:
+#ITEM: border:
+border:
+#ITEM: border-collapse:
+border-collapse:
+#ITEM: border-color:
+border-color:
+#ITEM: border-spacing:
+border-spacing:
+#ITEM: border-style:
+border-style:
+#ITEM: border-top:
+border-top:
+#ITEM: border-right:
+border-right:
+#ITEM: border-bottom:
+border-bottom:
+#ITEM: border-left:
+border-left:
+#ITEM: border-top-color:
+border-top-color:
+#ITEM: border-right-color:
+border-right-color:
+#ITEM: border-bottom-color:
+border-bottom-color:
+#ITEM: border-left-color:
+border-left-color:
+#ITEM: border-top-style:
+border-top-style:
+#ITEM: border-right-style:
+border-right-style:
+#ITEM: border-bottom-style:
+border-bottom-style:
+#ITEM: border-left-style:
+border-left-style:
+#ITEM: border-top-width:
+border-top-width:
+#ITEM: border-right-width:
+border-right-width:
+#ITEM: border-bottom-width:
+border-bottom-width:
+#ITEM: border-left-width:
+border-left-width:
+#ITEM: border-width:
+border-width:
+#ITEM: bottom:
+bottom:
+#ITEM: caption-side:
+caption-side:
+#ITEM: clear:
+clear:
+#ITEM: clip:
+clip:
+#ITEM: color:
+color:
+#ITEM: content:
+content:
+#ITEM: counter-increment:
+counter-increment:
+#ITEM: counter-reset:
+counter-reset:
+#ITEM: cue:
+cue:
+#ITEM: cue-after:
+cue-after:
+#ITEM: cue-before:
+cue-before:
+#ITEM: cursor:
+cursor:
+#ITEM: direction:
+direction:
+#ITEM: display:
+display:
+#ITEM: elevation:
+elevation:
+#ITEM: empty-cells:
+empty-cells:
+#ITEM: float:
+float:
+#ITEM: font:
+font:
+#ITEM: font-family:
+font-family:
+#ITEM: font-size:
+font-size:
+#ITEM: font-size-adjust:
+font-size-adjust:
+#ITEM: font-stretch:
+font-stretch:
+#ITEM: font-style:
+font-style:
+#ITEM: font-variant:
+font-variant:
+#ITEM: font-weight:
+font-weight:
+#ITEM: height:
+height:
+#ITEM: left:
+left:
+#ITEM: letter-spacing:
+letter-spacing:
+#ITEM: line-height:
+line-height:
+#ITEM: list-style:
+list-style:
+#ITEM: list-style-image:
+list-style-image:
+#ITEM: list-style-position:
+list-style-position:
+#ITEM: list-style-type:
+list-style-type:
+#ITEM: margin:
+margin:
+#ITEM: margin-top:
+margin-top:
+#ITEM: margin-right:
+margin-right:
+#ITEM: margin-bottom:
+margin-bottom:
+#ITEM: margin-left:
+margin-left:
+#ITEM: marker-offset:
+marker-offset:
+#ITEM: marks:
+marks:
+#ITEM: max-height:
+max-height:
+#ITEM: max-width:
+max-width:
+#ITEM: min-height:
+min-height:
+#ITEM: min-width:
+min-width:
+#ITEM: orphans:
+orphans:
+#ITEM: outline:
+outline:
+#ITEM: outline-color:
+outline-color:
+#ITEM: outline-style:
+outline-style:
+#ITEM: outline-width:
+outline-width:
+#ITEM: overflow:
+overflow:
+#ITEM: padding:
+padding:
+#ITEM: padding-top:
+padding-top:
+#ITEM: padding-right:
+padding-right:
+#ITEM: padding-bottom:
+padding-bottom:
+#ITEM: padding-left:
+padding-left:
+#ITEM: page:
+page:
+#ITEM: page-break-after:
+page-break-after:
+#ITEM: page-break-before:
+page-break-before:
+#ITEM: page-break-inside:
+page-break-inside:
+#ITEM: pause:
+pause:
+#ITEM: pause-after:
+pause-after:
+#ITEM: pause-before:
+pause-before:
+#ITEM: pitch:
+pitch:
+#ITEM: pitch-range:
+pitch-range:
+#ITEM: play-during:
+play-during:
+#ITEM: position:
+position:
+#ITEM: quotes:
+quotes:
+#ITEM: richness:
+richness:
+#ITEM: right:
+right:
+#ITEM: size:
+size:
+#ITEM: speak:
+speak:
+#ITEM: speak-header:
+speak-header:
+#ITEM: speak-numeral:
+speak-numeral:
+#ITEM: speak-punctuation:
+speak-punctuation:
+#ITEM: speech-rate:
+speech-rate:
+#ITEM: stress:
+stress:
+#ITEM: table-layout:
+table-layout:
+#ITEM: text-align:
+text-align:
+#ITEM: text-decoration:
+text-decoration:
+#ITEM: text-indent:
+text-indent:
+#ITEM: text-shadow:
+text-shadow:
+#ITEM: text-transform:
+text-transform:
+#ITEM: top:
+top:
+#ITEM: unicode-bidi:
+unicode-bidi:
+#ITEM: vertical-align:
+vertical-align:
+#ITEM: visibility:
+visibility:
+#ITEM: voice-family:
+voice-family:
+#ITEM: volume:
+volume:
+#ITEM: white-space:
+white-space:
+#ITEM: widows:
+widows:
+#ITEM: width:
+width:
+#ITEM: word-spacing:
+word-spacing:
+#ITEM: z-index:
+z-index:
